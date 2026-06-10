@@ -26,7 +26,7 @@ pip install pygame-textinput
 Il est possible d'utiliser un venv si vous le souhaitez.
 
 ## Pour récupérer le projet et le lancer
-1. Cloner le projet avec ***
+1. Cloner le projet
 2. Vérifiez que vous possédez bien les dépendances nécessaires et installez-les si ce n'est pas le cas
 3. **IMPORTANT** : Afin de tester le projet, étant donné qu'il est en multijoueur local, il vous faudra lancer le projet au moins deux fois en étant connecté sur un réseau local (Wifi / Forfait 4G). Windows vous demandera potentiellement l'autorisation pour que l'application communique sur des réseaux privés ou publics. Il vous faudra sélectionner "Réseau privé" lorsque cela arrivera.
 4. Placez-vous à la racine du projet et lancez-le avec ```python main.py```. Afin de tester pleinement le projet, il faudra lancer deux fois le programme pour avoir deux joueurs.
