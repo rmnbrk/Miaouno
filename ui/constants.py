@@ -1,0 +1,19 @@
+from pygame import Color
+
+S_FONT_SIZE = 12
+M_FONT_SIZE = 25
+L_FONT_SIZE = 45
+
+DEFAULT_FONT_SIZE = 12
+DEFAULT_FONT_COLOR = Color(255, 255, 255)
+
+ROSE_1 = Color(255, 194, 224)
+ROSE_2 = Color(236, 139, 178)
+WHITE = Color(255, 255, 255)
+BLACK = Color(0, 0, 0)
+
+RED = Color(255, 109, 109)
+BLUE = Color(109, 176, 255)
+GREEN = Color(109, 255, 157)
+YELLOW = Color(245, 255, 109)
+WILD = Color(242, 235, 226)
